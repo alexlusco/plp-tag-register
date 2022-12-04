@@ -1,0 +1,35 @@
+### The TAG Project
+
+Since October 2019, one of Public Law Project’s focus areas has been public law and technology and specifically the growing use of automated systems to make decisions in high impact areas such as immigration, welfare benefits, policing, and more. One of the major challenges of working in this area is the opacity around automated decision-making in government. In 2019, we noted that there was no systematic, public information about how and why public authorities procure, develop, and use automated systems, or how they impact affected groups. Nor was there any public register – whether operated by government or by the third sector – of such systems.
+
+The ‘Tracking Automated Government’ (TAG) Project was developed in response to this opacity. It aims to track and analyse examples of automated decision-making in government and to help us ensure that they conform to public law principles and operate in the interests of disadvantaged and marginalised groups. 
+
+### The TAG Register
+
+Construction of the TAG Register began in November 2021, to keep track of and analyse identified forms of automated decision-making in government. 
+
+We created the TAG Register for three reasons:
+
+1. It was designed to help Public Law Project to *collate and compare examples of automated decision-making in government*, including the level of transparency of each tool and any evidence of unequal impacts. This has allowed us to gain a better understanding of the overall state of government automation and the key risks and challenges.
+2. The TAG Register is intended to *set an example of what good transparency* looks like, when it comes to government use of automated decision-making. The Register was not built by government; it was pieced together by Public Law Project from information that is often the hard-won result of investigations by journalists or civil society organisations. We feel sure that there are many more tools that we do not yet know about, and more information to be gathered about the tools do we know about. Nonetheless, we think that the TAG Register is in many respects an improvement on the government’s own [Algorithmic Transparency Standard](https://www.gov.uk/government/collections/algorithmic-transparency-standard) – both in breadth and depth – and we hope it may serve as inspiration from improvements in the future. 
+3. The TAG Register was, from the beginning, intended for publication and is *Public Law Project’s best effort to ‘put our money where our mouth is’*. We do not think it is fair or just to keep our knowledge about government algorithms to ourselves. We believe that people have a right to easy-to-understand information about decisions affecting them. The TAG Register is an attempt to empower people with that information in circumstances where, otherwise, it would not be readily available. 
+
+All information contained in the TAG Register is true to the best of our knowledge. Opacity is an inherent challenge of working in this area. We have attempted to find and collate information scattered across different sources and to give credit to those who have worked hard to obtain it, but we fully accept that there may be gaps. If you have any relevant information which is not currently included in the TAG Register, or if you would like to make a correction, [please get in touch](mailto:tagproject@publiclawproject.org.uk).
+
+### Explanation of terminology used
+
+#### ADM and AI:
+For the most part, we use the language of ‘automated decision-making' or ‘ADM’, as opposed to ‘AI’ or ‘algorithms’. Artificial Intelligence or AI is an umbrella term to cover technologies that do the sorts of things we would normally expect a human being to do. This term has become popular and is used, for example, in the title of the EU’s proposed legislation: The Artificial Intelligence Act. However, it is very broad and somewhat vague. It is also, for our purposes, over-inclusive. As a charity focussed on access to public law remedies and ensuring that the state acts lawfully and fairly, we are specifically interested in the way government uses automated systems to make decisions, rather than other types or uses of AI technology. 
+
+The term ‘algorithm’ is also too broad. An *algorithm* is a set of rules for performing a task or solving a problem. It involves taking some input, applying the rules to that input, and returning an output. For example, a recipe is a type of algorithm which tells a person how to make a particular dish. The inputs are the ingredients, the rules are the steps in the recipe (e.g. chop the ingredients, then mix them, then bake them), and the output is the dish. An algorithm can be operated by a person, or by a computer, or by some combination of the two. Computers can use algorithms to perform tasks or solve problems automatically (i.e. without a person’s direct involvement). These computers are often called *automated systems*. 
+
+An *automated decision* is one in which an automated system performs at least part of the decision-making process. Automated systems can enter into government decision-making in a range of different ways:
+1. Decision support: Where an automated system provides additional information to aid a human decision-maker in their decision (e.g. a system assesses whether an offender poses a risk of reoffending, and presents that risk score to a parole officer to inform their decision)
+2. Streaming or triage: Where an automated system determines the type and quality of human judgement involved in a particular case (e.g. a system deems a visa application to be high risk, which means that the application is directed to a more senior official and subjected to more stringent scrutiny)
+3. Fully (or ‘solely’) automated: Where an automated system takes a decision and action in relation to a person or group without human input (e.g. a system automatically assesses and approves an application for a driver’s licence)
+
+#### ‘BAME’:
+We have made the decision to refrain from using the term ‘BAME’ to identify anyone that is subject to racialisation. We will be as clear with our use of language when referring to impacted groups as the available data allows us to be. We acknowledge that ‘BAME’ is non-specific, lacks nuance, and does not leave room to recognise how minoritised individuals experience racism, in particular the unique experiences of racism associated with Black people. To provide an example, according to recent Home Office figures Black people are 9x more likely than white people to be stopped and searched by police, but ethnic minorities as a whole are 4x more likely.
+
+However, some of the publications that we extract data from (namely government publications) use the term, and on occasion we are not able to break down the data behind the term, and thus have not been able to be offer more nuanced explanation. Where possible, we will continue to investigate data displayed in this manner to further breakdown the ‘BAME’ label, to present data on race in the clearest way possible.
+
