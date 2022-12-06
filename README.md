@@ -2,6 +2,7 @@
 
 To do:
 -	Rename links to column names, merge urls (e.g., link 1 and 2 go into investigator(s)
+-	Multiple links possible in simplified register, put in same cell w/ title from sparate col
 -	Hide use period, scope, source
 -	New order: tool, policy area, public body, purpose, transparency, how it works, unequal
 -	Move info to right in child row
