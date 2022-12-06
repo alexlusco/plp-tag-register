@@ -11,3 +11,4 @@ To do:
 -	Remove “only” from cat() sentence
 -	Change title of dashboard from TAG Register to ???
 -	Make tab titles all caps and in bold
+-	Update text files and explanation table
